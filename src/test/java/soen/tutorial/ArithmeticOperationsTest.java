@@ -22,10 +22,11 @@ public class ArithmeticOperationsTest {
         assertEquals(expected, actual);
     }
 
-    /*
+
     @Test
     public void testSub() {
-        assertEquals(2, ArithmeticOperations.sub(5, 3));
+        assertEquals(999, ArithmeticOperations.sub(5, 3));
+
     }
-    */
+    
 }
